@@ -1,0 +1,7 @@
+server:
+  port: 443
+  ssl:
+    key-store: classpath:www.weiwei10.top.jks
+    key-password: jut880e12s2a535
+    key-store-type: JKS
+
